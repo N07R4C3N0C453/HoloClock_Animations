@@ -8,3 +8,7 @@ https://docs.google.com/presentation/d/1y3IwDwjFQHf_qk9g2-_6abs2Ndtn1MmuqI5m8sPe
 
 NewWaveCar
 ![newwavecar](https://github.com/N07R4C3N0C453/HoloClock_Animations/assets/133441521/3484688f-3b50-49ea-908a-4f56d594d7b7)
+
+Walking_Man
+![Walking_Man](https://github.com/N07R4C3N0C453/HoloClock_Animations/assets/133441521/25e10d4f-82b7-4e66-b627-88e4df3e9e57)
+
